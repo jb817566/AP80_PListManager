@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AP80_PListManager", "AP80_PListManager\AP80_PListManager.csproj", "{AC256B9C-C2B9-49D0-976B-6D1231A164DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PListManager.Library", "PListManager.Library\PListManager.Library.csproj", "{FFDC14C2-B767-4633-A1D6-C0D26C825B2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC256B9C-C2B9-49D0-976B-6D1231A164DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC256B9C-C2B9-49D0-976B-6D1231A164DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC256B9C-C2B9-49D0-976B-6D1231A164DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC256B9C-C2B9-49D0-976B-6D1231A164DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFDC14C2-B767-4633-A1D6-C0D26C825B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDC14C2-B767-4633-A1D6-C0D26C825B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDC14C2-B767-4633-A1D6-C0D26C825B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDC14C2-B767-4633-A1D6-C0D26C825B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B06380AA-02C6-4C56-B911-7AEBA7D95993}
+	EndGlobalSection
+EndGlobal
